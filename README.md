@@ -5,3 +5,6 @@ Resource for Understanding Error-First Callbacks in NodeJS:
 
 Official Docs for bluebird on Promisification:
 -- http://bluebirdjs.com/docs/api/promisification.html
+
+Easier Docs for reading files in NodeJS:
+-- https://nodejs.org/en/knowledge/file-system/how-to-read-files-in-nodejs/
