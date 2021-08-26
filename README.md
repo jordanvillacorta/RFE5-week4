@@ -8,3 +8,6 @@ Official Docs for bluebird on Promisification:
 
 Easier Docs for reading files in NodeJS:
 -- https://nodejs.org/en/knowledge/file-system/how-to-read-files-in-nodejs/
+
+A Stack Overflow resource comparing INNER JOIN and OUTER JOIN in mySQL:
+-- https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join
