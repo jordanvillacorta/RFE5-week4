@@ -11,3 +11,6 @@ Easier Docs for reading files in NodeJS:
 
 A Stack Overflow resource comparing INNER JOIN and OUTER JOIN in mySQL:
 -- https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join
+
+An article for solving the Coin Sums toy problem:
+-- http://jgpettibone.github.io/coin-sums/
