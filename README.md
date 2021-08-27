@@ -17,3 +17,6 @@ An article for solving the Coin Sums toy problem:
 
 Reading Express Docs to get better at using NodeJS/Express:
 -- https://expressjs.com/en/guide/routing.html
+
+Good resource for reading on cookie-based authentication:
+-- https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work
