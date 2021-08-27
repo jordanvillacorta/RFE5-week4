@@ -14,3 +14,6 @@ A Stack Overflow resource comparing INNER JOIN and OUTER JOIN in mySQL:
 
 An article for solving the Coin Sums toy problem:
 -- http://jgpettibone.github.io/coin-sums/
+
+Reading Express Docs to get better at using NodeJS/Express:
+-- https://expressjs.com/en/guide/routing.html
