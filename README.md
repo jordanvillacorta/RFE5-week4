@@ -20,3 +20,6 @@ Reading Express Docs to get better at using NodeJS/Express:
 
 Good resource for reading on cookie-based authentication:
 -- https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work
+
+Bluebird Docs on the .tap() method:
+-- http://bluebirdjs.com/docs/api/tap.html
