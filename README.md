@@ -23,3 +23,6 @@ Good resource for reading on cookie-based authentication:
 
 Bluebird Docs on the .tap() method:
 -- http://bluebirdjs.com/docs/api/tap.html
+
+Resource for Escaping query values:
+-- https://www.npmjs.com/package/mysql#escaping-query-values
